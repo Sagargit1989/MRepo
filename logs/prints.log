@@ -1,0 +1,7 @@
+12:34:17.257 [main] INFO  TestProgram - Given username
+12:34:17.406 [main] INFO  TestProgram - Given password
+12:34:17.590 [main] INFO  TestProgram - Logged in to flipcart
+12:36:27.512 [main] INFO  TestProgram - Opened Flipcart
+12:36:27.882 [main] INFO  TestProgram - Given username
+12:36:28.185 [main] INFO  TestProgram - Given password
+12:36:28.350 [main] INFO  TestProgram - Logged in to flipcart
