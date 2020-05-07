@@ -27,6 +27,14 @@ public class TestProgram extends Base {
         driver =initilizeDriver();
        // driver.get(prop.getProperty("url"));
         driver.get("https://www.flipkart.com/");
+
+        //To test git
+        System.out.println("Git test");
+
+        //To test git
+        System.out.println("Git test1");
+        //To test git
+        System.out.println("Git test2");
     }
 
     @Test(priority = 0)
