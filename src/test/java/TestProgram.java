@@ -35,6 +35,10 @@ public class TestProgram extends Base {
         System.out.println("Git test1");
         //To test git
         System.out.println("Git test2");
+        //To test git
+        System.out.println("Git test1");
+        //To test git
+        System.out.println("Git test2");
     }
 
     @Test(priority = 0)
